@@ -1,4 +1,4 @@
-module github.com/sethvargo/go-redisstore
+module github.com/sethvargo/go-redisstore-opencensus
 
 go 1.17
 
